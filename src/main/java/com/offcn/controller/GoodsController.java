@@ -66,6 +66,14 @@ public class GoodsController {
     @GetMapping("/demo2")
     public String demo2(){
 
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+
 //        TbItem item = new TbItem();
 
 //        solrClient.addBean()
