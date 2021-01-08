@@ -66,11 +66,11 @@ public class GoodsController {
     @GetMapping("/demo2")
     public String demo2(){
 
+        System.out.println(1111);
         System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
+        System.out.println(1111);
+        System.out.println(11111);
+        System.out.println(111111);
         System.out.println();
         System.out.println();
 
